@@ -98,6 +98,7 @@ export default function Home() {
           Go to nextjs.org →
           Hello
           Hello2
+          hello3
         </a>
       </footer>
     </div>
